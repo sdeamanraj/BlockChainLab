@@ -1,0 +1,5 @@
+$geth --mine --minerthreads 4
+CPU Mining
+$ etherminer -M -C
+GPU Mining
+$ etherminer -G
